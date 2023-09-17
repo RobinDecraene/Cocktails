@@ -1,0 +1,324 @@
+[{
+    "name": "Vodka Sunrise",
+    "img": "vodka_sunrise.jpg",
+    "ingredients": [
+      "Grenadine",
+      "Fruitsap",
+      "Vodka"
+    ]
+  },
+  {
+    "name": "Rapberry Sprite",
+    "img": "Bacardi_Razz.jpg",
+    "ingredients": [
+      "Sprite",
+      "Bacardi Razz"
+    ]
+  },
+  {
+    "name": "Mango Sprite",
+    "img": "bacardi_mango.jpg",
+    "ingredients": [
+      "Sprite",
+      "Bacardi Mango"
+    ]
+  },
+  {
+    "name": "Rozé",
+    "img": "rozé.jpg",
+    "ingredients": [
+      "Rozé"
+    ]
+  },
+  {
+    "name": "Rainbow Paradise",
+    "img": "rainbow_paradise.jpg",
+    "ingredients": [
+      "Grenadine",
+      "Fruitsap",
+      "Blue Curacoa",
+      "Vodka"
+    ]
+  },
+  {
+    "name": "Passoa Orange",
+    "img": "passoa_orange.jpg",
+    "ingredients": [
+      "Fruitsap",
+      "Passoa",
+      "Optioneel: Vodka"
+    ]
+  },
+  {
+    "name": "Redberry Sparkler",
+    "img": "pink_sprite.jpg",
+    "ingredients": [
+      "Sprite",
+      "Redberry Sour"
+    ]
+  },
+  {
+    "name": "Safari orange",
+    "img": "safari_orange.jpg",
+    "ingredients": [
+      "Fruitsap",
+      "Safari",
+      "Optioneel: Vodka"
+    ]
+  },
+  {
+    "name": "Safari Cola",
+    "img": "safari_cola.jpg",
+    "ingredients": [
+      "Cola",
+      "Safari",
+      "Optioneel: Vodka"
+    ]
+  },
+  {
+    "name": "Zizi Sprite",
+    "img": "zizi.jpg",
+    "ingredients": [
+      "Zizi",
+      "Sprite"
+    ]
+  },
+  {
+    "name": "Blue Lagoon",
+    "img": "blue_sprite.jpg",
+    "ingredients": [
+      "Sprite",
+      "Blue Curacoa",
+      "Optioneel: citroensap"
+    ]
+  },
+  {
+    "name": "Pisang Sprite",
+    "img": "pisang.jpg",
+    "ingredients": [
+      "Sprite",
+      "Pisang",
+      "Optioneel: Vodka"
+    ]
+  },
+  {
+    "name": "Pisang Orange",
+    "img": "pisang_orange.jpg",
+    "ingredients": [
+      "Fruitsap",
+      "Pisang",
+      "Optioneel: Vodka"
+    ]
+  },
+  {
+    "name": "Screwdriver",
+    "img": "screwdriver.jpg",
+    "ingredients": [
+      "Fruitsap",
+      "Vodka"
+    ]
+  },
+  {
+    "name": "Vodka Cola",
+    "img": "vodka_cola.jpg",
+    "ingredients": [
+      "Cola",
+      "Vodka"
+    ]
+  },
+  {
+    "name": "Vodka Fanta",
+    "img": "vodka_fanta.jpg",
+    "ingredients": [
+      "Fanta",
+      "Vodka"
+    ]
+  },
+  {
+    "name": "Shotje Naar Keuze",
+    "img": "shotje.jpg",
+    "ingredients": [
+      "Kies maar :)"
+    ]
+  },
+  {
+    "name": "Rainbow shotjes",
+    "img": "rainbow_shots.jpg",
+    "ingredients": [
+      "Rood",
+      "orange",
+      "Geel",
+      "Groen",
+      "Blauw",
+      "Paars"
+    ]
+  },
+  {
+    "name": "Water",
+    "img": "water.jpg",
+    "ingredients": [
+      "Water heheh :)"
+    ]
+  },
+  {
+    "name": "Bier",
+    "img": "bier.jpg",
+    "ingredients": [
+      "Fris Pintje"
+    ]
+  },
+  {
+    "name": "Vodka Red Bull",
+    "img": "vodka_redbull.jpg",
+    "ingredients": [
+      "Red Bull",
+      "Vodka"
+    ]
+  },
+  {
+    "name": "Blue Red Bull",
+    "img": "blue_rebull.jpg",
+    "ingredients": [
+      "Red Bull",
+      "Blue Curacoa",
+      "Optioneel: Vodka"
+    ]
+  },
+  {
+    "name": "Green monkey",
+    "img": "Green_monkey.jpg",
+    "ingredients": [
+      "Fruitsap",
+      "Blue Curacoa",
+      "Pisang"
+    ]
+  },
+  {
+    "name": "Violet Fizz",
+    "img": "Violet fizz.jpg",
+    "ingredients": [
+      "citroensap",
+      "Sprite",
+      "violet Jenever"
+    ]
+  },
+  {
+    "name": "Purple rain",
+    "img": "Purple Rain.jpg",
+    "ingredients": [
+      "citroensap",
+      "Grenadine",
+      "Fruitsap",
+      "violet Jenever"
+    ]
+  },
+  {
+    "name": "Red Bull Screwdriver",
+    "img": "redbull_scruwdriver.jpg",
+    "ingredients": [
+      "Fruitsap",
+      "Red Bull",
+      "Vodka"
+    ]
+  },
+  {
+    "name": "Redberry sour",
+    "img": "redberry sour.jpg",
+    "ingredients": [
+      "Citroensap",
+      "Grenadine",
+      "Redberry Sour"
+    ]
+  },
+  {
+    "name": "Mango Razz Breeze",
+    "img": "Mango Razz Breeze.jpg",
+    "ingredients": [
+      "Fruitsap",
+      "Bacardi Mango",
+      "Bacardi Razz"
+    ]
+  },
+  {
+    "name": "Violet Safari Fizz",
+    "img": "Violet Safari Fizz.jpg",
+    "ingredients": [
+      "Citroensap",
+      "Sprite",
+      "Safari",
+      "violet Jenever"
+    ]
+  },
+  {
+    "name": "Kriek Fizz",
+    "img": "Kriek Fizz.jpg",
+    "ingredients": [
+      "Citroensap",
+      "Kriek",
+      "Vodka"
+    ]
+  },
+  {
+    "name": "Passionate Rose",
+    "img": "Passionate Rose.jpg",
+    "ingredients": [
+      "Grenadine",
+      "Bacardi Mango",
+      "rosé"
+    ]
+  },
+  {
+    "name": "Tropical Red Bull Punch",
+    "img": "Tropical Red Bull Punch.jpg",
+    "ingredients": [
+      "Red Bull",
+      "Djoezz tropisch fruit",
+      "Safari"
+    ]
+  },
+  {
+    "name": "Mango Fizz",
+    "img": "Mango Fizz.jpg",
+    "ingredients": [
+      "Fanta",
+      "Bacardi Mango"
+    ]
+  },
+  {
+    "name": "Violet Sunset",
+    "img": "Violet Sunset.jpg",
+    "ingredients": [
+      "Djoezz tropisch fruit",
+      "violet Jenever"
+    ]
+  },
+  {
+    "name": "Safari Sunrise",
+    "img": "Safari Sunrise.jpg",
+    "ingredients": [
+      "Grenadine",
+      "Fanta",
+      "Safari"
+    ]
+  },
+  {
+    "name": "Passion Fruit Punch",
+    "img": "Passion Fruit Punch.jpg",
+    "ingredients": [
+      "Djoezz tropisch fruit",
+      "Grenadine",
+      "Citroensap",
+      "Sprite"
+    ]
+  },
+  {
+    "name": "Citrus-Berry Breeze",
+    "img": "Passion Fruit Punch.jpg",
+    "ingredients": [
+      "Fruitsap",
+      "citroensap",
+      "Sprite",
+      "Grenadine"
+    ]
+  }
+]

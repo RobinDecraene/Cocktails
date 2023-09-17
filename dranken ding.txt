@@ -1,0 +1,19 @@
+dranken ding
+  {
+    "name": "Malibu Sunrise",
+    "img": "malibu_sunrise.jpg",
+    "ingredients": [
+      "Grenadine",
+      "Fruitsap",
+      "Malibu"
+    ]
+  },
+  {
+    "name": "Batida Orange",
+    "img": "batida_orange.jpg",
+    "ingredients": [
+      "Fruitsap",
+      "Batida",
+      "Optioneel: Vodka"
+    ]
+  },
